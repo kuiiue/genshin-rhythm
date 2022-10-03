@@ -15,4 +15,4 @@ home-made genshin music rhythm game
 - 我不会占坑说这个想法是我先有的云云，我想学编程，但我更想玩原神音游
 
 ## 示例截图
-![](2022-10-03.png)
+![](https://raw.githubusercontent.com/kuiiue/genshin-rhythm/main/2022-10-03.png)
