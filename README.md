@@ -10,7 +10,7 @@ home-made genshin music rhythm game
 - **我没有联系原作者，所有素材版权归原作者所有，此项目永不会盈利**
 - 以前没学过C++，也是在趁机学一下这门我觊觎了很久的语言，所以看到代码里有迷惑操作请好为人师（褒义），不吝赐教  
 - 大概完成了三分之一，但是现在有其他事情需要咕一两个月，索性放在了这里，算是抛砖引玉，说不定能砸出来个大佬来接盘或者remake了呢  
-- **咕了两个多月回来了，现在继续**  
+- ~~**咕了两个多月回来了，现在继续**~~又要继续咕了真是非常抱歉呢（棒读
 - 使用了[SDL2](https://www.libsdl.org/)库， 学习了[Lazy Foo' Productions - Beginning Game Programming v2.0](http://lazyfoo.net/tutorials/SDL/index.php)的教程，在VS2019 Community上写出来的  
 - **三分之一指的是程序结构设计进度，不是音游谱面完成度，虽然发布了release，但是不具备任何可玩性！** ~~只能听歌~~
 
